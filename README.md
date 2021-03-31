@@ -9,6 +9,8 @@
 ## Công việc hiện tại <a href="https://github.com/paulnguyen-mn"><img align="left" width="auto" height="200" src="https://res.cloudinary.com/kimwy/image/upload/v1598840300/easyfrontend/programming_hgngx9.png"></a>
 
 - Đang là sinh viên trường đại học Nam Cần Thơ.
+- `Chủ` của kênh Youtube có hơn 20 người đăng ký chia sẻ về lập trình web: `Trần Quốc Liêm` [https://www.youtube.com/channel/UC488JjMyalqMl7ST0YVEu6w](https://www.youtube.com/channel/UC488JjMyalqMl7ST0YVEu6w?sub_confirmation=1)
+- `Chủ` của website [https://tuyendungmiennam.herokuapp.com/](https://tuyendungmiennam.herokuapp.com/) nơi bạn có thể đăng những tin tuyển dụng và tìm kiếm tin tuyển dụng.
 
 ## Các dự án đã thực hiện
 
