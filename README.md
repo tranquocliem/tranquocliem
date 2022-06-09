@@ -1,4 +1,4 @@
-![M.E.R.N Stack Banner](https://res.cloudinary.com/tranquocliem/image/upload/v1624019337/Th%C3%AAm_ti%C3%AAu_%C4%91%E1%BB%81_ntygov.png)
+![M.E.R.N Stack Banner](https://res.cloudinary.com/tranquocliem/image/upload/v1654741903/%E1%BA%A2nh_B%C3%ACa_K%C3%AAnh_Youtube_bycstk.png)
 
 # Trần Quốc Liêm - Passionate Web Developer, Frontend Trainer
 
