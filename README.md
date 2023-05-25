@@ -20,12 +20,14 @@
 - `Chuyên viên` tại Trung Tâm Xúc Tiến Thương Mại - Du Lịch Và Quản Lý Di Tích Huyện Phong Điền
 
 ## Các dự án nổi bậc đã thực hiện
+- `Website` LandingPage
+- `Website` Portfolio
+- `Website` Business
+- `Web App` Tuyển Dụng Việc Làm
+- `Web Aoo` Bán Hàng
+- `Web App` Mạng Xã Hội
+- `Youtube` M.E.R.N Stack Basic
+- `Youtube` Phần Mềm Text To Speech
+- `Youtube` Cẩm Nang Máy Tính
 
-- Website Tuyển Dụng Việc Làm: https://github.com/tranquocliem/Do-An-2-Chuyen-Nganh
-- Website Mạng Xã Hội Chia Sẻ Hình Ảnh : https://github.com/tranquocliem/Do-An-Thuc-Tap
-
-## Dự án làm với nhóm (Teamwork)
-
-- Xử lý mã QR: https://github.com/tranquocliem/XLA
-- Website Chat: https://github.com/lnnduy/dacs1-chat
-- Website Bán Điện Thoại: https://github.com/lnnduy/laptrinhwebnhom1
+#### Link truy cập chi tiết: https://tranquoclieminfo.tk/#work
