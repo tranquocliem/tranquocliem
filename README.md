@@ -6,7 +6,7 @@
 - Thích tìm hiểu những điều mới, đặc biệt là những thứ liên quan đến Frontend stack.
 - Thích làm việc với ReactJS ❤
 
-## Công việc hiện tại <a href="https://github.com/tranquocliem"><img align="left" width="auto" height="200" src="https://res.cloudinary.com/kimwy/image/upload/v1598840300/easyfrontend/programming_hgngx9.png"></a>
+## Công việc hiện tại <a target="_blank" href="https://tranquoclieminfo.tk"><img align="left" width="auto" height="200" src="https://res.cloudinary.com/tranquocliem/image/upload/v1685005795/avatar_3_pvrnzj.png"></a>
 
 - Đang là sinh viên trường đại học Nam Cần Thơ.
 - `Chủ` của kênh Youtube chia sẻ về kiến thức máy tính và lập trình: [`Trần Quốc Liêm - 𝑰𝑻`](https://tinyurl.com/tranquocliem0999)
