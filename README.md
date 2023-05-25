@@ -6,15 +6,18 @@
 - Thích tìm hiểu những điều mới, đặc biệt là những thứ liên quan đến Frontend stack.
 - Thích làm việc với ReactJS ❤
 
-## Công việc hiện tại <a href="https://tranquoclieminfo.tk"><img align="left" width="auto" height="200" src="https://res.cloudinary.com/tranquocliem/image/upload/v1685005795/avatar_3_pvrnzj.png"></a>
+## Thông Tin Về Tôi <a href="https://tranquoclieminfo.tk"><img align="left" width="auto" height="200" src="https://res.cloudinary.com/tranquocliem/image/upload/v1685005795/avatar_3_pvrnzj.png"></a>
 
-[link NEW](https://tranquoclieminfo.tk) {:target="_blank" rel="noopener"}
+- `Học vấn` tốt nghiệp kỹ sư chuyên ngành IT tại trường Đại Học Nam Cần Thơ
+- `SĐT` 0782872822
+- `Email` tranquocliemc6@gmail.com
+- `Website` [https://tranquoclieminfo.tk](https://tranquoclieminfo.tk)
+- `Facebook` [Trần Quốc Liêm](https://www.fb.com/tranquocliem99)
 
-- Đang là sinh viên trường đại học Nam Cần Thơ.
-- `Chủ` của kênh Youtube chia sẻ về kiến thức máy tính và lập trình: [`Trần Quốc Liêm - 𝑰𝑻`](https://tinyurl.com/tranquocliem0999)
-- `Chủ` của website [https://tranquoclieminfo.tk](https://tranquoclieminfo.tk) nơi bạn sẽ có thêm thông tin về tôi.
-- `Chủ` của website [https://tuyendungmiennam.herokuapp.com/](https://tuyendungmiennam.herokuapp.com/) nơi bạn có thể đăng những tin tuyển dụng và tìm kiếm tin tuyển dụng.
-- `Chủ` của website [https://instagirlss.herokuapp.com/](https://instagirlss.herokuapp.com/) nơi bạn có thể đăng những hình ảnh bạn thích cho nhiều người biết đến.
+## Công Việc Hiện Tại
+
+- `Chủ` kênh Youtube [Trần Quốc Liêm - 𝑰𝑻](https://tinyurl.com/tranquocliem0999) chỉa sẻ về mẹo hay máy tính và lập trình
+- `Chuyên viên` tại Trung Tâm Xúc Tiến Thương Mại - Du Lịch Và Quản Lý Di Tích Huyện Phong Điền
 
 ## Các dự án nổi bậc đã thực hiện
 
